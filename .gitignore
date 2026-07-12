@@ -1,0 +1,9 @@
+# local-only files — not part of the published profile
+PREVIEW_*.png
+photo.PNG.png
+photo.*
+*.png
+
+# python
+__pycache__/
+*.pyc
